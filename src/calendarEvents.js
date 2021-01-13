@@ -12,7 +12,7 @@ export default [
 
   {
     id: 2,
-    title: "Holidays2",
+    title: "Holidays",
     start: new Date(year, month - 1, 13, 0, 0, 0),
     end: new Date(year, month - 1, 19, 0, 0, 0),
   },
